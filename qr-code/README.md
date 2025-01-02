@@ -31,7 +31,7 @@ The component is built to be responsive and to adjust seamlessly across differen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/meltingwax-19/challenge-projects](https://github.com/meltingwax-19/challenge-projects)
 - Live Site URL: [https://meltingwax-19.github.io/challenge-projects/](https://meltingwax-19.github.io/challenge-projects/)
 
 ## My process
