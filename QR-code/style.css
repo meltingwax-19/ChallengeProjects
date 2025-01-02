@@ -1,0 +1,122 @@
+/*Font imported from Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+/*Defining root font size*/
+html {
+  font-size: 16px;
+  /* 1rem = 16px */
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Outfit', 'san-serif';
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #D5E1EF;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 20rem;
+  padding: 1rem 1rem 2.5rem 1rem;
+  border-radius: 1.25rem;
+  box-shadow: 0 1.5625rem 1.5625rem 0 rgba(0, 0, 0, 0.05);
+  background: #fff;
+}
+
+.qr-box {
+  width: 100%;
+  max-width: 18rem;
+  margin: 0.3125rem 0.3125rem 0.3125rem 0;
+  border-radius: 0.625rem;
+  background: #2C7DFA;
+}
+
+.qr-code {
+  width: 100%;
+  max-width: 10rem;
+  height: auto;
+  margin: 4rem auto;
+}
+
+.text-box {
+  width: 100%;
+  max-width: 18rem;
+  padding: 0 1rem;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.375rem;
+  font-weight: 700;
+  line-height: 120%;
+  color: #1F314F;
+  margin: 1rem 0;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.0125rem;
+  color: #68778D;
+  margin: 0.75rem 0;
+}
+
+.footer {
+  font-size: 0.8125rem;
+  margin-top: 1.25rem;
+  color: #68778D;
+}
+
+.footer a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.footer a:hover {
+  color: #000fff;
+  text-decoration: underline;
+}
+
+
+/*Responsive design*/
+
+/*Styles for mobile screen*/
+@media (max-width: 30rem) {
+  .card {
+    padding: 0.75rem 0.75rem 2.375rem 0.75rem;
+  }
+
+  .title {
+    font-size: 1.125rem;
+  }
+
+  .subtitle {
+    font-size: 0.75rem;
+  }
+
+  .footer {
+    font-size: 0.6875rem;
+  }
+}
