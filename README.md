@@ -99,7 +99,6 @@ While I am happy with the current state of this project, there are areas I would
 
 ## Author
 
-- Website - [https://meltingwax-19.github.io/challenge-projects/](https://meltingwax-19.github.io/challenge-projects/)
 - Frontend Mentor - [@meltingwax-19](https://www.frontendmentor.io/profile/meltingwax-19)
 
 ## Acknowledgments
