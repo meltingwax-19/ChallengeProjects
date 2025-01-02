@@ -32,7 +32,7 @@ The component is built to be responsive and to adjust seamlessly across differen
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://meltingwax-19.github.io/challenge-projects/)
 
 ## My process
 
@@ -99,7 +99,7 @@ While I am happy with the current state of this project, there are areas I would
 
 ## Author
 
-- Website - [Gad I. Enwe](https://www.your-site.com)
+- Website - [https://meltingwax-19.github.io/challenge-projects/](https://meltingwax-19.github.io/challenge-projects/)
 - Frontend Mentor - [@meltingwax-19](https://www.frontendmentor.io/profile/meltingwax-19)
 
 ## Acknowledgments
