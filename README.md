@@ -69,9 +69,9 @@ The component is built to be responsive and to adjust seamlessly across differen
 
 ## What I Learned
 
-This project helped me deepen my understanding of the following concepts:
+While it is true that I still have a whole lot to learn, this project helped me deepen my understanding of the following concepts:
 
-- **Responsive Design:** Through this project, I was introduced to mobile-first design principles. I learned how to approach layouts with this mindset and effectively use media queries with relative units like rem to ensure responsiveness.
+- **Responsive Design:** Through this project, I was introduced to the 'mobile-first' design principle. Even though not fully implemented in this project I've learned how important it is going forward to approach layouts in modern web development with this mindset and effectively use media queries with relative units like rem to ensure responsiveness.
 
 - **CSS Flexbox:** I gained hands-on experience with Flexbox for aligning and positioning elements within the card layout.
 
@@ -106,4 +106,4 @@ While I am happy with the current state of this project, there are areas I would
 
 I want to extend my gratitude to the amazing community on Frontend Mentor. Reviewing the solutions of other developers was invaluable in helping me gain clarity and perspective for this project.
 
-A special shout-out to Isioma Pamela Talabi & Adriano Escarabote, for their inspiring solutions, which guided my approach to building this QR Code project.
+A special shout-out to Isioma Pamela Talabi & Adriano Escarabote, both members of the Frontend Mentor community, for their inspiring solutions, which guided my approach to building this QR Code project.
