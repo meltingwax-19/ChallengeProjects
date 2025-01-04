@@ -1,55 +1,39 @@
-<!--Adding a root index.html to serve as a homepage to the 'challenge-projects' repo. This will provide links to various finished projects-->
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Challenge Projects</title>
+  <!-- displays site properly based on user's device-->
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 20px;
-    }
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="./style.css">
 
-    h1 {
-      color: #333;
-    }
-
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-
-    li {
-      margin: 20px 0;
-    }
-
-    a {
-      text-decoration: none;
-      color: #007BFF;
-      font-size: 1.2rem;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-
+  <title>Frontend Mentor | QR code component</title>
 </head>
 
 <body>
-  <h1>Welcome to My Challenge Projects</h1>
-  <p>Select a project to view:</p>
 
-  <ul>
-    <li><a href="qr-code/">QR Code Project</a></li>
+  <main class="container">
 
-    <!-- Add more projects as needed -->
-  </ul>
+    <article class="card" aria-label="QR code card">
+
+      <div class="qr-box">
+        <img class="qr-code" src="./images/image-qr-code.png" alt="Scan this QR code to visit Frontend Mentor">
+      </div>
+
+      <div class="text-box">
+        <p class="title">Improve your front-end<br> skills by building projects</p>
+        <p class="subtitle">Scan the QR code to visit Frontend<br> Mentor and take your coding skills to the next level
+        </p>
+      </div>
+
+      <footer class="footer">
+        <p>Coded by <a href="https://www.frontendmentor.io/profile/meltingwax-19" target="_blank">Gad I. Enwe</a></p>
+      </footer>
+
+    </article>
+  </main>
 
 </body>
 </html>
